@@ -4,7 +4,7 @@
 * 👨🏻‍💻 3rd year Applied Maths and Informatics student at MIPT
 * 💻 Ex Software Engineer at Yandex
 * 💻 Golang & Python Backend Developer
-* 📫 How to reach me: `milan.kurmaev@gmail.com` or `@richdadmilan` in Telegram  
+* 📫 How to reach me: `milan.kurmaev@gmail.com` or `@gomilang` in Telegram  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themeelanoid&theme=material_palenight)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=themeelanoid&theme=material_palenight)
