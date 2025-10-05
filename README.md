@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=B891E6&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-* 👋 I'm Milan, 21 y.o.
+* 👋 I'm Milan, 22 y.o.
 
 * 📍 Currently live in Moscow, Russia  
 * 📚 CS & Engineering Master’s student @ MIPT, Moscow  | BSc in Applied Math & CS, <img src="https://github.com/user-attachments/assets/f9a21ce0-b590-4951-b5ba-8a27842482fa" width="72" height="25">
