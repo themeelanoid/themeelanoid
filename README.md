@@ -6,7 +6,22 @@
 * 📚 CS & Engineering Master’s student @ MIPT, Moscow  | BSc in Applied Math & CS, <img src="https://github.com/user-attachments/assets/f9a21ce0-b590-4951-b5ba-8a27842482fa" width="72" height="25">
 * 👨🏻‍💻 Golang Backend Developer @ MTS Web Services <img src="https://github.com/user-attachments/assets/518a789b-74a0-4645-9a53-e1d211b3f2da" width="25" height="25">
 . Ex- Yandex <img src="https://github.com/user-attachments/assets/e531b7be-1fc5-4671-a73f-42bd33b02b23" width="25" height="25">
-  
+* 👨🏻‍💻 Now developing OakAI - Website AI Chat-bot answering questions and collecting contacts for leads.  
+<blockquote>
+  <p align="left">
+    <img
+      src="https://github.com/user-attachments/assets/c801060a-3c93-410b-919e-7a0366163f6b"
+      width="85"
+      height="85"
+      alt="logo"
+    ><br>
+    <a href="https://oakai.online">oakai.online</a>
+  </p>
+</blockquote>
+
+
+
+
 * 📫 How to reach me: `milan.kurmaev@gmail.com` or `@gomilang` in Telegram  
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themeelanoid&theme=material_palenight)  
